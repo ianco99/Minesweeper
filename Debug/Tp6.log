@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\ianco\Desktop\Image\2022\Generos\Tp6\Source.cpp(180,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\ianco\Desktop\Image\2022\Generos\Tp6\Source.cpp(294,21): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ianco\Desktop\Image\2022\Generos\Tp6\Source.cpp(455,22): warning C4244: '=': conversión de 'clock_t' a 'float'; posible pérdida de datos
+C:\Users\ianco\Desktop\Image\2022\Generos\Tp6\Source.cpp(469,21): warning C4244: '=': conversión de 'clock_t' a 'float'; posible pérdida de datos
+C:\Users\ianco\Desktop\Image\2022\Generos\Tp6\Source.cpp(668,24): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ianco\Desktop\Image\2022\Generos\Tp6\Source.cpp(1029,7): warning C4101: 'ans': variable local sin referencia
+  Tp6.vcxproj -> C:\Users\ianco\Desktop\Image\2022\Generos\Tp6\Debug\Tp6.exe

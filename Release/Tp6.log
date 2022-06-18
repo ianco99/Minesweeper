@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\ianco\Desktop\Image\2022\Generos\Tp6\Source.cpp(149,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\ianco\Desktop\Image\2022\Generos\Tp6\Source.cpp(767,6): warning C4101: 'xCord': variable local sin referencia
+C:\Users\ianco\Desktop\Image\2022\Generos\Tp6\Source.cpp(768,7): warning C4101: 'ans': variable local sin referencia
+C:\Users\ianco\Desktop\Image\2022\Generos\Tp6\Source.cpp(766,6): warning C4101: 'yCord': variable local sin referencia
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 120 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  Tp6.vcxproj -> C:\Users\ianco\Desktop\Image\2022\Generos\Tp6\Release\Tp6.exe
