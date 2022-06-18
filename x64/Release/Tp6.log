@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\ianco\Desktop\Image\2022\Generos\Tp6\Minesweeper\Source.cpp(185,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\ianco\Desktop\Image\2022\Generos\Tp6\Minesweeper\Source.cpp(299,21): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ianco\Desktop\Image\2022\Generos\Tp6\Minesweeper\Source.cpp(460,22): warning C4244: '=': conversión de 'clock_t' a 'float'; posible pérdida de datos
+C:\Users\ianco\Desktop\Image\2022\Generos\Tp6\Minesweeper\Source.cpp(474,21): warning C4244: '=': conversión de 'clock_t' a 'float'; posible pérdida de datos
+C:\Users\ianco\Desktop\Image\2022\Generos\Tp6\Minesweeper\Source.cpp(673,24): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ianco\Desktop\Image\2022\Generos\Tp6\Minesweeper\Source.cpp(1034,7): warning C4101: 'ans': variable local sin referencia
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 169 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  Tp6.vcxproj -> C:\Users\ianco\Desktop\Image\2022\Generos\Tp6\Minesweeper\x64\Release\Tp6.exe
